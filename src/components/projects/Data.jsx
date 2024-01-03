@@ -19,9 +19,17 @@ import cepheus from '../../assets/cephesu.png'
 import hira from '../../assets/hira.png'
 import found from '../../assets/foundit.png'
 import vcp from '../../assets/vc-player.png'
+import lang from '../../assets/lang.png'
 
 
 export const projectsData = [
+    {
+        id: 0,
+        image: lang,
+        title: "Mini-lang-Translator",
+        category: "web",
+        link: "https://darshan1005.github.io/MINI-Lang-Translator/",
+    },
     {
         id: 1,
         image: sher,
