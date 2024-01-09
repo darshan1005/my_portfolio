@@ -11,7 +11,7 @@ import icdect from '../../assets/icdect.png'
 import quiz from '../../assets/quiz.png'
 import fly from '../../assets/fly.png'
 import ecommers from '../../assets/ecommers.png'
-import scholars from '../../assets/demo_logo.png'
+import scholars from '../../assets/Screenshot_20221204_224152.png'
 import memory from '../../assets/memory_game.png'
 import bus from '../../assets/bus.png'
 import dogs from '../../assets/dogs.png'
@@ -21,7 +21,7 @@ import found from '../../assets/foundit.png'
 import vcp from '../../assets/vc-player.png'
 import lang from '../../assets/lang.png'
 import music from '../../assets/music.png'
-
+import maze from '../../assets/maze.png'
 
 export const projectsData = [
     {
@@ -187,7 +187,13 @@ export const projectsData = [
         category: "design",
         link: "https://www.figma.com/file/nVHrMnP9HxLlkbYxREhpmM/cepheus-space?type=design&node-id=0%3A1&mode=design&t=oWDUiOoOyj4Bsl1g-1"
     }, 
-   
+    {
+        id: 23,
+        image: maze,
+        title: "A-MAZE-Q",
+        category: "design",
+        link: "https://www.figma.com/file/9KheGihvd0RnQABVkyVz2T/IQM-Game?type=design&node-id=0%3A1&mode=design&t=fG9n6HOQjjoL137y-1"
+    },
 ];
 
 
